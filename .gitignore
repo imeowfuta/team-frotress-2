@@ -241,8 +241,8 @@ screencap.png
 cropped_screencap.png
 
 rconpass.txt
-
 config.py
 
-# Linux virtualenviroment
+# Linux virtualenviroment for testing
 virtualenviroment
+run.sh
